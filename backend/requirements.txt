@@ -1,0 +1,8 @@
+FastAPI
+pandas
+numpy
+httpx
+pymongo
+pymannkendall
+slowapi
+pydantic
